@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+    <title>RSS Ejemplo videoconferencia 1 NF2</title>
+    <description>Este es el feed rss de las noticias de la videoconferencia</description>
+    <link>http://www.ejemplo.com/feedrss</link>
+		<item>
+			<title>Noticia 1 de la videoconferencia</title>
+			<description>Descripcion noticias de la videoconferencia 1</description>
+    <link>http://www.ejemplo.com/feedrss/1</link>
+		</item>
+		<item>
+			<title>Noticia 2 de la videoconferencia</title>
+			<description>Descripcion noticias de la videoconferencia 2</description>
+    <link>http://www.ejemplo.com/feedrss/2</link>
+		</item>
+		<item>
+			<title>Noticia 3 de la videoconferencia</title>
+			<description>Descripcion noticias de la videoconferencia 3</description>
+    <link>http://www.ejemplo.com/feedrss/3</link>
+		</item>
+	</channel>
+</rss>
